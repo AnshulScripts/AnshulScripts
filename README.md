@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Frontend Development (php,laravel and much more).
 - 📫 How to reach me just send an email on anshul2305f@aptechgdn.net
 - 😄 Pronouns: focused, funny, and just me.
-- ⚡ Fun fact: I am a web developer --- 🤐🤫 Don't tell antone
+- ⚡ Fun fact: I am a web developer --- 🤐🤫 Don't tell anyone
 
 <!---
 AnshulScripts/AnshulScripts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
